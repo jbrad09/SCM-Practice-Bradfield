@@ -4,7 +4,7 @@ def main():
 def code():
     print("I like coding!")
 
-    for _ in range(8):
+    for _ in range(2):
         print("code")
 
 
