@@ -4,10 +4,10 @@ def main():
 def code():
     print("I like coding!")
 
-    for _ in range(5):
+    for _ in range(2):
         print("code")
 
-        
+
 if __name__ == "__main__":
     main()
 
